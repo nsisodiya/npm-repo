@@ -10,7 +10,7 @@
 storage: ./storage
 # path to a directory with plugins to include
 plugins: ./plugins
-
+listen: 0.0.0.0:9000
 web:
   # WebUI is enabled as default, if you want disable it, just uncomment this line
   #enable: false
